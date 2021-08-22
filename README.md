@@ -30,7 +30,7 @@ Based on our analysis, we can determine from our data that the most successful m
 
 We can also conclude that December is the least successful month to launch a theater campaign because the success and failed rates are almost the same, and the success rates are lowest in December.
 
-From the outcomes based on goals analysis, we can see that with funding goals up to the range of 15000 to 19999 theater campaigns have a higher success rate that failure rate. However, after the range of 15000 to 19999 the failure rate is higher than the success rate. There is a small range between 35000 to 39999 and 40000 to 44999 where theater campains have a higher success rate, but after 44999 the trend switches again.
+From the outcomes based on goals analysis, we can see that with funding goals up to the range of 15000 to 19999 theater campaigns have a higher success rate that failure rate. However, after the range of 15000 to 19999 the failure rate is higher than the success rate. There is a small range between 35000 to 39999 and 40000 to 44999 where theater campaigns have a higher success rate, but after 44999 the trend switches again.
 
 Some of the limitations of this dataset include having a fairly small sample size and not having more outside research to compare our data to. In this analysis we are making conclusions about theater campaigns with only a small amount of data, and I think with more research our conclusions will change.
 
